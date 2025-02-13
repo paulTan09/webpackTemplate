@@ -1,2 +1,5 @@
-"# webpackTemplate" 
-"# webpackTemplate" 
+cmd after cloning:
+
+npm install
+
+npm run start/build
